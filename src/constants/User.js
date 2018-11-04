@@ -1,0 +1,10 @@
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const COOKIE_CHECK = 'COOKIE_CHECK';
+export const LOGOUT = 'LOGOUT';
+export const FETCH_CHATS = 'FETCH_CHATS';
+export const FETCH_FRIENDS = 'FETCH_FRIENDS';
+export const FETCH_USERS = 'FETCH_USERS';
+export const SIGNUP_FAIL = 'SIGNUP_FAIL';
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS';
+export const REQUEST_FRIEND = 'REQUEST_FRIEND';
